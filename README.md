@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OlatunjI-Ruth
-- 👀 I’m interested in Data Science/analysis, chatbot development/deployment, Machine learning projects.
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
-- 📫 you can find me on LinkedIn as Ruth Olatunji, send a mail to Rutherfordola@gmail.com
+# - 👋 Hi, I’m @OlatunjI-Ruth
+# - 👀 I’m interested in Data Science/analysis, Flutter, Machine learning projects.
+# - 💞️ I’m looking to collaborate on Data Science, flutter Machine Learning projects
+# - 📫 you can find me on LinkedIn as Ruth Olatunji, send a mail to Rutherfordola@gmail.com
 
 <!---
 OlatunjI-Ruth/OlatunjI-Ruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
